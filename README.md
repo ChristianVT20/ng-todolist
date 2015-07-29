@@ -13,8 +13,8 @@ Run `grunt` for building and `grunt serve` for preview.
 Running `grunt test` will run the unit tests with karma.
 =======
 # ng-todolist
-Second approximation to AngularJS. This time I try a To Do list using Yeoman.
+Second approximation to AngularJS. This time I try a "To Do list" using Yeoman-Bower-Grunt with local persistence.
 
-See the demo at the link:
+See the demo at the next link:
 
 http://christianvt20.github.io/ng-todolist
